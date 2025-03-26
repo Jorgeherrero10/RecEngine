@@ -1,0 +1,10 @@
+matplotlib==3.7.3
+scikit-surprise
+recmetrics
+pandas
+numpy
+scikit-learn
+plotly
+seaborn
+tqdm
+kaggle
