@@ -23,9 +23,11 @@ This project builds a recommender system for an anime streaming platform using b
 ## Files
 
 - `Anime_Recommendations_Final.ipynb`: Main notebook with models and evaluation
-- `EDA_Notebook.ipynb`: Exploratory Data Analysis
+- `Rec_Eng_Data_Exploration.ipynb`: Exploratory Data Analysis
 - `data/anime.csv`: Anime metadata
 - `data/anime_ratings.csv`: User ratings
+- `anime_ratings.csv`: Subset used for the analysis.
+
 
 ## Authors
 
